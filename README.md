@@ -1,3 +1,5 @@
+# NOTE: i used in VSCODE mac
+
 # How To run
 
 ```
