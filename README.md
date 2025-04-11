@@ -1,9 +1,7 @@
 # How To run
 
 ```
-https://github.com/GagukPurnotow/Meghamol
-```
-```
+git clone https://github.com/GagukPurnotow/Meghamol
 cd Meghamol
 ```
 
@@ -18,11 +16,7 @@ Setelah itu install ulang package
 
 ```
 pip3 install -r requirements.txt
-```
-```
 pip3 install web3
-```
-```
 pip3 install seleniumbase
 ```
 
