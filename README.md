@@ -7,14 +7,14 @@ https://github.com/GagukPurnotow/Meghamol
 cd Meghamol
 ```
 
-# pakai virtual environment biar tiap project nggak saling bentrok dependensinya:
+Pakai virtual environment biar tiap project nggak saling bentrok dependensinya:
 ```
 python -m venv env
 source env/bin/activate  # kalau pakai Mac/Linux
 .\env\Scripts\activate   # kalau pakai Windows
 ```
 
-# Setelah itu install ulang package
+Setelah itu install ulang package
 
 ```
 pip3 install -r requirements.txt
