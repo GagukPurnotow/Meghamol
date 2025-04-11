@@ -26,6 +26,11 @@ pip3 install web3
 pip3 install seleniumbase
 ```
 
+Run Bot:
+```
+python3 megaethfaucet.py
+```
+
 # Jika terjadi error
 
 ```
